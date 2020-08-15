@@ -1,0 +1,19 @@
+.section-about {
+    padding: 10rem 0;
+    background-color: #fff;
+
+    &-1 {
+        background-color: $color-secondary-dark;
+        height: 10rem;
+    }
+
+    &-2 {
+        background-color: $color-secondary-light;
+        height: 10rem;
+    }
+
+    &-3 {
+        background-color: $color-secondary-medium;
+        height: 10rem;
+    }
+}
